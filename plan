@@ -1,0 +1,13 @@
+Creating an HTTP server in golang.
+
+packages used :
+	1) net/http
+	2) fmt
+	3) log
+
+
+Two routes 
+	/
+	/info
+
+
